@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec.bak
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Data files (kullanıcı verileri)
+data/schedule.json
+data/settings.json
+
+# Build outputs
+build/
+dist/
+*.exe
+*.msi
+*.zip
+*.rar
+
+# Setup klasörü (derlenmiş dosyalar)
+setup/
+okul_zil/setup/
+
+# Inno Setup outputs
+*.iss.bak
+Output/
+
+# Test files
+test_*.py
+*_test.py
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Kopya klasörler
+*- Kopya/
+*- Copy/
+
+# Ses dosyaları (çok büyük olabilir, opsiyonel)
+# sounds/ klasörünü de eklemek isterseniz yukarıdaki # işaretini kaldırın
+# sounds/
+
