@@ -62,7 +62,6 @@ dist/
 
 # Setup klasörü (derlenmiş dosyalar)
 setup/
-okul_zil/setup/
 
 # Inno Setup outputs
 *.iss.bak
@@ -85,4 +84,3 @@ test_*.py
 # Ses dosyaları (çok büyük olabilir, opsiyonel)
 # sounds/ klasörünü de eklemek isterseniz yukarıdaki # işaretini kaldırın
 # sounds/
-
